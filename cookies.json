@@ -1,0 +1,93 @@
+[
+    {
+        "domain": ".microsoft.com",
+        "expirationDate": 1730361985,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "MSCC",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "NR"
+    },
+    {
+        "domain": "jobs.careers.microsoft.com",
+        "expirationDate": 1757375778,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "ai_user",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "XFHNB|2024-09-08T23:56:18.694Z"
+    },
+    {
+        "domain": ".microsoft.com",
+        "expirationDate": 1730352585.318483,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "MS0",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "951731b0cc924d4b97c8a7d885fa2828"
+    },
+    {
+        "domain": "jobs.careers.microsoft.com",
+        "expirationDate": 1730352975.658934,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "ai_session",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "ZgOejcEkenaZ1Nniq7RBpb|1730350785333|1730351175654"
+    },
+    {
+        "domain": ".microsoft.com",
+        "expirationDate": 1744740147.126885,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "MC1",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "GUID=04fa4d94e7f242c8a3693d09d0d11010&HASH=04fa&LV=202404&V=4&LU=1713204147283"
+    },
+    {
+        "domain": "jobs.careers.microsoft.com",
+        "expirationDate": 1761886809.855952,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "MicrosoftApplicationsTelemetryDeviceId",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "2d18d830-3410-46aa-8c75-d8a18fec5834"
+    },
+    {
+        "domain": "jobs.careers.microsoft.com",
+        "expirationDate": 1757375780.096397,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "MSFPC",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "GUID=04fa4d94e7f242c8a3693d09d0d11010&HASH=04fa&LV=202404&V=4&LU=1713204147283"
+    }
+]
