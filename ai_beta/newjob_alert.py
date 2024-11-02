@@ -27,7 +27,7 @@ url = 'https://jobs.careers.microsoft.com/global/en/search?lc=India'
 # Function to get job titles from the page
 def get_job_titles():
     driver.get(url)
-    time.sleep(5)  # Wait for the page to load
+    time.sleep(10)  # Wait for the page to load
 
     # Find job titles; adjust the selector based on actual page structure
     job_elements = driver.find_elements('xpath', '//*[@id="job-search-app"]/div/div[2]/div/div[2]/div[1]/div/div[1]/div[1]/div/div/div[2]/div[1]/h2')
@@ -46,7 +46,7 @@ def monitor_jobs(check_interval=60):
     while True:
         print(f"{datetime.now()}: Checking for new job postings...")
         current_jobs = set(get_job_titles())
-        
+        print(current_jobs)
         # Check for new jobs
         new_jobs = current_jobs - previous_jobs
         
