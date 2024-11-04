@@ -10,7 +10,7 @@ from Microjob import microjob
 class microalert():
     def __init__(self):
         self.apply_bot=microjob()
-        self.password="dfxxbiihhbonnxua"
+        self.password="password"
         self.email="kashifalikhan093@gmail.com"
         self.email_to="kashifalikhan78677868@gmail.com"
 
