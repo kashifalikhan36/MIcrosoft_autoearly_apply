@@ -3,9 +3,9 @@
 **Microsoft-Auto-Apply** is an automated tool designed to monitor Microsoft job postings, apply automatically, and send email alerts every 30-60 seconds. Additionally, it can generate a tailored resume based on the job description to optimize your chances of getting noticed.
 
 ## Demo Video
-Check out the demo of Blessi-AI in action!
+Check out the demo of Microsoft-Auto-Apply in action!
 
-[![Blessi-AI Demo](https://img.youtube.com/vi/Qu8Q0Qkq9HM/0.jpg)](https://www.youtube.com/watch?v=Qu8Q0Qkq9HM)
+[![Microsoft-Auto-Apply Demo](https://img.youtube.com/vi/Qu8Q0Qkq9HM/0.jpg)](https://www.youtube.com/watch?v=Qu8Q0Qkq9HM)
 
 
 ## Features
